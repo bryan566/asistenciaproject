@@ -60,7 +60,7 @@
                   <a class="nav-link page-scroll" href="#team">Team</a>
                 </li> 
                 <li class="nav-item">
-                  <a class="nav-link page-scroll" href="#blog">Blog</a>
+                  <a class="nav-link page-scroll" href="#blog">Bloger</a>
                 </li>  
                 <li class="nav-item">
                   <a class="nav-link page-scroll" href="#contact">Contacto</a>
