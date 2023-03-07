@@ -54,7 +54,7 @@
                   <a class="nav-link page-scroll" href="#showcase">Showcase</a>
                 </li>       
                 <li class="nav-item">
-                  <a class="nav-link page-scroll" href="#pricing">Precios</a>
+                  <a class="nav-link page-scroll" href="#pricing">Precios Nuevos</a>
                 </li>     
                 <li class="nav-item">
                   <a class="nav-link page-scroll" href="#team">Team</a>
