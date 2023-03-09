@@ -92,8 +92,8 @@
                 
                   
                   <div class="header-button">
-                    <a href="https://rebrand.ly/slick-ud" rel="nofollow" target="_blank" class="btn btn-border-filled">Purchase Now</a>
-                    <a href="https://rebrand.ly/slick-ud" rel="nofollow" target="_blank" class="btn btn-border page-scroll">Learn More</a>
+                    <a href="{{route('login')}}" rel="nofollow" target="_blank" class="btn btn-border-filled">Purchase Now</a>
+                    <a href="{{route('register')}}" rel="nofollow" target="_blank" class="btn btn-border page-scroll">Learn More</a>
                   </div>
                 
               </div>
